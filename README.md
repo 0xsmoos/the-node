@@ -1,2 +1,2 @@
 # the-node
-A experimental decentralized network 
+A experimental decentralized network. Taken off github 
